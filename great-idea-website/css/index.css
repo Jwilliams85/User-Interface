@@ -71,6 +71,36 @@ a {
 }
 
 title {
-	margin: 5px;
-	padding: 5px
+	display: block;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 14px;
+	float: right;
+
+}
+section {
+width: 25% 
+float: left;
+margin: 20px;
+padding 12px;
+}
+
+h1 {
+	margin:20px;
+	 padding: 10%;
+	float: left;
+}
+
+img {
+	display: block;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 10%;
+	float:right;
+}
+.started {
+	float: left;
+	margin: 75px;
+	padding:10px;
+
 }
