@@ -70,37 +70,108 @@ a {
 	padding: 5px;
 }
 
-title {
-	display: block;
-	margin-left: 10px;
-	margin-right: 10px;
-	font-size: 14px;
-	float: right;
-
+head {
+	width: 25%;
+	margin: 20px;
+	padding: 12px;
+	float:right;
 }
+
 section {
 width: 25% 
 float: left;
 margin: 20px;
-padding 12px;
+padding: 12px;
 }
 
 h1 {
-	margin:20px;
+	margin:10px;
 	 padding: 10%;
+	 width: 20%;
 	float: left;
 }
 
-img {
+links {
 	display: block;
-	margin-left: 20px;
-	margin-right: 20px;
-	width: 10%;
+	margin-left: 5px;
+	margin-right: 5px;
+	width: 5px;
 	float:right;
 }
-.started {
-	float: left;
-	margin: 75px;
+  .started {
+	
+	margin:10px;
 	padding:10px;
+	float: left;
+
+}
+
+h2 {
+	margin: 10px;
+	padding: 10px;
+
+}
+#div1 {
+
+	width: 40%;
+	height: 10%;
+	float: left;
+	padding: 20px;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+#div2 {
+	width: 40%;
+	height: 30%;
+	float: right;
+	padding: 20px;
+	margin: 20px;
+	
+}
+#div3 {
+	margin: 10px;
+	padding:10px;
+	width: 20%;
+	height: 30%;
+	float: left;
+} #div4 {
+	margin: 10px;
+	padding: 10px;
+	width: 20%;
+	height: 30%;
+	display: inline-block;
+	float: left;
+}
+
+#div5 {;
+	padding:10px;
+	width: 20%;
+	height: 30%;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.middle-img {
+	
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+	
+address {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
+ 
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+html {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid gray;
 
 }
